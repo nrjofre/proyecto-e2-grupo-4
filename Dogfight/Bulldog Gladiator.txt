@@ -1,0 +1,9 @@
+Bulldog Gladiator
+270
+100
+16
+Tank
+007
+021
+026
+038

@@ -1,0 +1,9 @@
+Dachshund Inquisitor
+210
+100
+22
+Ranged
+006
+015
+017
+035

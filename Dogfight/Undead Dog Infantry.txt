@@ -1,0 +1,9 @@
+Undead Dog Infantry
+260
+100
+19
+Warrior
+003
+014
+023
+037

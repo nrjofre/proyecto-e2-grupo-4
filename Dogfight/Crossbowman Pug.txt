@@ -1,0 +1,9 @@
+Crossbowman Pug
+200
+100
+21
+Ranged
+005
+018
+019
+033

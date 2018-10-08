@@ -1,0 +1,9 @@
+Poodle Warlock
+200
+100
+22
+Ranged
+006
+015
+018
+034

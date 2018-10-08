@@ -1,0 +1,9 @@
+Greyhound Hunter
+210
+100
+21
+Ranged
+005
+019
+020
+032
